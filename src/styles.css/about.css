@@ -1,0 +1,32 @@
+.aboutme {
+  height: 105vh;
+  background-color: #f0f0f0;
+  color: black;
+}
+.aboutme img {
+  width: 500px;
+  height: 500px;
+  border-radius: 80%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+}
+.aboutme h4 {
+  font-size: 30px;
+  text-align: center;
+}
+
+ h1{
+    text-align: center;
+}
+
+@media only screen and (max-width: 412px) {
+  .aboutme img {
+    width: 300px;
+    height: 300px;
+  }
+  .aboutme h4 {
+    font-size: 20px;
+  }
+}
