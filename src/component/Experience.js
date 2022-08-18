@@ -23,7 +23,7 @@ const Experience = () => {
       </VerticalTimelineElement>
       <VerticalTimelineElement
         className="vertical-timeline-element--education"
-        date="2020 - 2022"
+        date="2020 - 2024"
         iconStyle={{ background: "#3e497a", color: "#fff" }}
         icon={<SchoolIcon />}
       >
