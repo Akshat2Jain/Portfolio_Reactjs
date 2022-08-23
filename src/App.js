@@ -12,6 +12,7 @@ import Navbar from "./component/Navbar";
 import Footer from "./component/Footer";
 import ProjectDisplay from "./component/Projectdisplay";
 import ScrollToTop from "./component/scrollToTop";
+import BlogDisplay from "./component/BlogDisplay";
 
 const App = () => {
   return (
@@ -25,6 +26,7 @@ const App = () => {
           <Route path="/Projects" element={<Portfolio />} />
           <Route path="/Project/:id" element={<ProjectDisplay/>}/>
           <Route path="/Experience" element={<Experience />} />
+          <Route path="/Blogs" element={<BlogDisplay/>}/>
         </Routes>
         <Footer/>
       </Router>

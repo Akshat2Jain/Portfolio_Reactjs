@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import { useLocation } from "react-router-dom";
 import "../styles.css/navbar.css";
 import ReorderIcon from "@mui/icons-material/Reorder";
-import CloudDownloadIcon from '@mui/icons-material/CloudDownload';
+
 const Navbar = () => {
   const [Expand, setExpand] = useState(false);
   const location = useLocation();
@@ -23,6 +23,7 @@ const Navbar = () => {
         <Link to="/About">About Me</Link>
         <Link to="/Projects">Projects</Link>
         <Link to="/Experience">Experience</Link>
+        <Link to="/Blogs">Blogs</Link>
       </div>
     </div>
   );
