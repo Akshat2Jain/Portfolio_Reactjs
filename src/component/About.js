@@ -9,7 +9,7 @@ const About = () => {
       <div className="aboutme">
         <img src={Homeimg} alt="profile" />
         <h4>
-          I Am A Second-Year Student Pursuing Information Technology @ Kiet
+          I Am A Third-Year Student Pursuing Information Technology @ Kiet
           Group Of Institutions. I Am Always Ready To Have New Experiences, Meet
           New People And Learn New Things. I Find The Idea Of Creating Value For
           People And Impacting The World Through My Gratifying.

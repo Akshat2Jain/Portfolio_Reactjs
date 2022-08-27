@@ -34,6 +34,26 @@ const blogList = [
     url: window.location.href,
     link:"https://2minblog.vercel.app/blog/2"
   },
+  {
+    id: 3,
+    title: "Why You Will Suck At Tailwind CSS?",
+    category: "Tech",
+    subCategory: ["Tech", "WebDev"],
+    description:
+      "Ok, I get that Tailwind is fast, effective, provides one-liner CSS and may be the best CSS framework you can work with right now. But you can't ignore the fact that at the end of the day it's the CSS only. The same CSS with which you used to do your styling. That is why it is called the CSS framework. The point I am trying to make here is if you want to be good at Tailwind you must have cleared your CSS concepts. Further, I will tell you about the problems I faced learning tailwind because I was weak in CSS.",
+    description2:
+      "All those advantages that you listen about the tailwind are correct but again a waste if you are not good at the CSS. I struggled with learning the tailwind in the starting. My concepts were not clear about how display properties works, and position properties like the difference between relative, absolute, static, fixed, and sticky. What is Z-index and What is the real concept behind using the z-index. Learning about the Float is, again a very important property that we usually ignore. CSS box model, learning about the margins, border, and padding. Learning about flex or any other grid system. These are the basic properties which one must learn. Now you understood how to style a page, how things work.This is the time you can move on the Learning tailwind CSS. You will understand why we admire tailwind so much, You will fall in love with this.When you know that all that hard work that you used to do writing so much CSS for only one class. Now you can write all those in just one line.Easily making pages responsive with the help of breakpoints. And many other advantages.",
+    description3:
+      "Hahaha, You will not suck at tailwind If you do the right things. I was bad in tailwind in the starting. Then I learned the CSS concepts and Now I am pretty good in the tailwind. That is it for this blog. I hope you like this blog and if you like this blog share it with your friends.",
+    footer: "See Ya in Glory 😊",
+    authorName: "Akshat Jain",
+    authorAvatar: "/assets/images/author.jpg",
+    createdAt: "August 26 , 2022",
+    cover: "/assets/images/designer-1.jpg",
+    url: window.location.href,
+    link:"https://2minblog.vercel.app/blog/3"
+  },
+
 ];
 
 export default blogList;
