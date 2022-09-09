@@ -27,8 +27,8 @@ const ProjectList = [
     name: "Game Review Strapi Website",
     image: Img15,
     skills: "Reactjs,Strapi,Graphql",
-    link: "https://github.com/Akshat2Jain/Netflix_clone",
-    live: "https://net12clone.netlify.app/",
+    link: "https://github.com/Akshat2Jain/react_strapi",
+    live: "https://github.com/Akshat2Jain/react_strapi",
     id: 1,
   },
   {
