@@ -49,7 +49,7 @@ const Home = () => {
             <h2> Front-End</h2>
             <span>
               ReactJS, AngularJs, HTML, CSS,Ionic, BootStrap,
-              MaterialUI,TailwindCSS, Firebase 8,Chartjs
+              MaterialUI,TailwindCSS, Firebase 8,Chartjs, Strapi, Graphql
             </span>
           </li>
           <li className="item">

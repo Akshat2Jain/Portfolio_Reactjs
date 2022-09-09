@@ -75,7 +75,7 @@ const Experience = () => {
         icon={<HomeRepairServiceIcon />}
       >
         <h3 className="vertical-timeline-element-title">
-          SDE Intern - Cabin4j
+          React Developer - Cabin4j
         </h3>
         <h4 className="vertical-timeline-element-subtitle">
          Lucknow
