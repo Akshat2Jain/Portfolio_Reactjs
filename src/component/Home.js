@@ -46,18 +46,22 @@ const Home = () => {
         <h1> Skills</h1>
         <ol className="list">
           <li className="item">
-            <h2> Front-End</h2>
+            <h2> Front-End 🤌</h2>
             <span>
               ReactJS, AngularJs, HTML, CSS,Ionic, BootStrap,
               MaterialUI,TailwindCSS, Firebase 8,Chartjs, Strapi, Graphql
             </span>
           </li>
           <li className="item">
-            <h2>Languages</h2>
+            <h2>Languages 🖥</h2>
             <span>JavaScript, Java, Python,C, C++</span>
           </li>
           <li className="item">
-            <h2>Extra</h2>
+            <h2>Achievements🏆</h2>
+            <span><a href="https://github.com/reactjs/hi.reactjs.org/pull/211">Contributed to the official React Docs</a></span>
+          </li>
+          <li className="item">
+            <h2>Extra 😄</h2>
             <span>Youtuber,Graphic designer,Video Editor,Guitar</span>
           </li>
         </ol>
