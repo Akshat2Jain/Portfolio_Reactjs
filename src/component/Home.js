@@ -54,7 +54,7 @@ const Home = () => {
           </li>
           <li className="item">
             <h2>Languages 🖥</h2>
-            <span>JavaScript, Java, Python,C, C++</span>
+            <span>JavaScript(Proficient), Java(Proficient),C++(Proficient),Python,C, </span>
           </li>
           <li className="item">
             <h2>Achievements🏆</h2>
