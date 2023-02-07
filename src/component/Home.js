@@ -35,7 +35,7 @@ const Home = () => {
           <Button
             variant="outlined"
             style={{ color: "yellow" }}
-            href="resume.pdf"
+            href="resume1.pdf"
             download
           >
             Download Cv
