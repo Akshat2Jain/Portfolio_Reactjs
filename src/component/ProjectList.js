@@ -17,7 +17,16 @@ import Img15 from "../assests/strapi.jpg"
 import Img16 from "../assests/chat.png"
 import Img17 from "../assests/github.png"
 import Img18 from "../assests/crypto.png"
+import Img19 from "../assests/crowdfunding.png"
 const ProjectList = [
+  {
+    name: "Crowdfunding Platform Using Web3.0",
+    image: Img19,
+    skills: "Reactjs,sass,Firebase 9",
+    link: "https://github.com/Akshat2Jain/web3_crowdfunding",
+    live: "https://crowdsupport.netlify.app/",
+    id: 0,
+  },
   {
     name: "Chat Application",
     image: Img16,
