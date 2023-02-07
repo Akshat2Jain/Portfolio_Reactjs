@@ -22,7 +22,7 @@ const ProjectList = [
   {
     name: "Crowdfunding Platform Using Web3.0",
     image: Img19,
-    skills: "Reactjs,sass,Firebase 9",
+    skills: "Reactjs,BlockChain, Solidity, Metamask, ThirdWeb",
     link: "https://github.com/Akshat2Jain/web3_crowdfunding",
     live: "https://crowdsupport.netlify.app/",
     id: 0,
@@ -33,7 +33,7 @@ const ProjectList = [
     skills: "Reactjs,sass,Firebase 9",
     link: "https://github.com/Akshat2Jain/chatApp",
     live: "https://chat-app-three-roan.vercel.app/login",
-    id: 0,
+    id: 1,
   },
   {
     name: "Crypto App",
@@ -41,7 +41,7 @@ const ProjectList = [
     skills: "Reactjs,sass,Chakra-UI, Chart.js",
     link: "https://github.com/Akshat2Jain/CryptoApp",
     live: "https://icic.vercel.app/",
-    id: 1,
+    id: 2,
   },
   {
     name: "Github User Finder",
@@ -49,7 +49,7 @@ const ProjectList = [
     skills: "Reactjs,Tailwindcss",
     link: "https://github.com/Akshat2Jain/github_user_finder",
     live: "https://github2user4finder.vercel.app/",
-    id: 2,
+    id: 3,
   },
   {
     name: "Netflix Clone",
@@ -57,7 +57,7 @@ const ProjectList = [
     skills: "Reactjs,TailwindCss,Firebase 9,Material Ui",
     link: "https://github.com/Akshat2Jain/Netflix_clone",
     live: "https://net12clone.netlify.app/",
-    id: 3,
+    id: 4,
   },
   {
     name: "Game Review Strapi Website",
@@ -65,7 +65,7 @@ const ProjectList = [
     skills: "Reactjs,Strapi,Graphql",
     link: "https://github.com/Akshat2Jain/react_strapi",
     live: "https://github.com/Akshat2Jain/react_strapi",
-    id: 4,
+    id: 5,
   },
   {
     name: "Personal Blog Website",
@@ -73,7 +73,7 @@ const ProjectList = [
     skills: "Reactjs",
     link: "https://github.com/Akshat2Jain/2min-Blog",
     live: "https://2minblog.vercel.app/",
-    id: 5,
+    id: 6,
   },
   {
     name: "Login/Logout Todo App",
@@ -81,7 +81,7 @@ const ProjectList = [
     skills: "Reactjs,Firebase 8,Bootstrap",
     link: "https://github.com/Akshat2Jain/advance_todo_app",
     live: "https://todopp.netlify.app/",
-    id: 6,
+    id: 7,
   },
   {
     name: "Blogging App",
@@ -89,7 +89,7 @@ const ProjectList = [
     skills: "Reactjs,Firebase,Material Ui",
     link: "https://github.com/Akshat2Jain/Firebase_auth",
     live: "https://github.com/Akshat2Jain/Firebase_auth",
-    id: 7,
+    id: 8,
   },
   {
     name: "Expense Tracker",
@@ -97,7 +97,7 @@ const ProjectList = [
     skills: "Reactjs,LocalStorage",
     live: "https://github.com/Akshat2Jain/project5",
     link: "https://github.com/Akshat2Jain/project5",
-    id: 8,
+    id: 9,
   },
   {
     name: "Project Rakt",
@@ -105,7 +105,7 @@ const ProjectList = [
     skills: "JavaScript,HTML,CSS,Bootstrap",
     link: "https://github.com/Akshat2Jain/project_rakt",
     live: "https://github.com/Akshat2Jain/project_rakt",
-    id: 9,
+    id: 10,
   },
   {
     name: "WeatherApp",
@@ -113,7 +113,7 @@ const ProjectList = [
     skills: "Reactjs",
     link: "https://github.com/Akshat2Jain/weatherapp_reactjs",
     live: "https://github.com/Akshat2Jain/weatherapp_reactjs",
-    id: 10,
+    id: 11,
   },
   {
     name: "Marvel MovieApp",
@@ -121,7 +121,7 @@ const ProjectList = [
     skills: "Reactjs",
     link: "https://github.com/Akshat2Jain/reactjs_project1_movieapp",
     live: "https://marvel-phasewise-app.netlify.app/",
-    id: 11,
+    id: 12,
   },
   {
     name: "Portfolio Website",
@@ -129,7 +129,7 @@ const ProjectList = [
     skills: "Html,Css,Javascript",
     link: "https://github.com/Akshat2Jain/Portfolio_Website",
     live: "https://akshatjain.tech/",
-    id: 12,
+    id: 13,
   },
   {
     name: "Starbucks Website",
@@ -137,7 +137,7 @@ const ProjectList = [
     skills: "TailwindCss",
     link: "https://github.com/Akshat2Jain/Starbucks_tailwindCss",
     live: "https://github.com/Akshat2Jain/Starbucks_tailwindCss",
-    id: 13,
+    id: 14,
   },
   {
     name: "Sorting App",
@@ -145,7 +145,7 @@ const ProjectList = [
     skills: "Html,Css,Javascript",
     link: "https://github.com/Akshat2Jain/Sorting_App",
     live: "https://github.com/Akshat2Jain/Sorting_App",
-    id: 14,
+    id: 15,
   },
   {
     name: "Bootstrap Website",
@@ -153,7 +153,7 @@ const ProjectList = [
     skills: "Bootstrap",
     link: "https://github.com/Akshat2Jain/Starbuks_Website_BootstrapOnly",
     live: "https://github.com/Akshat2Jain/Starbuks_Website_BootstrapOnly",
-    id: 15,
+    id: 16,
   },
   {
     name: "Password Generator",
@@ -161,7 +161,7 @@ const ProjectList = [
     skills: "Html,Css,Javascript",
     link: "https://github.com/Akshat2Jain/Password_Generator_animated_bg",
     live: "https://github.com/Akshat2Jain/Password_Generator_animated_bg",
-    id: 16,
+    id: 17,
   },
   {
     name: "Covid Dashboard",
@@ -169,7 +169,7 @@ const ProjectList = [
     skills: "Html,Css,Javascript,Chartjs",
     link: "https://github.com/Akshat2Jain/Covid_statewise_tracker_dashboard",
     live: "https://github.com/Akshat2Jain/Covid_statewise_tracker_dashboard",
-    id: 17,
+    id: 18,
   },
 ];
 
