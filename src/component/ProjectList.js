@@ -24,7 +24,7 @@ const ProjectList = [
   {
     name:"ShirtSquad",
     image:Img21,
-    skills:"Nextjs,Strapi,TailwindCss,stripe,Render",
+    skills:"Nextjs,Strapi,TailwindCss,stripe,Render,Redux",
     link:"https://github.com/Akshat2Jain/ShirtSquad",
     live:"https://shirtsquad.vercel.app",
     id:0
