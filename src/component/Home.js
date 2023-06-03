@@ -47,13 +47,13 @@ const Home = () => {
           <li className="item">
             <h2> Front-End 🤌</h2>
             <span>
-              ReactJS, AngularJs, HTML, CSS,Ionic, BootStrap,
-              MaterialUI,TailwindCSS, Firebase 8,Chartjs, Strapi, Graphql
+              Nextjs,Stripe,ReactJS, AngularJs, HTML, CSS,Ionic, BootStrap,
+              MaterialUI,TailwindCSS, Firebase 8,Chartjs, Strapi
             </span>
           </li>
           <li className="item">
             <h2>Languages 🖥</h2>
-            <span>JavaScript(Proficient), Java(Proficient),C++(Proficient),Python,C, </span>
+            <span>JavaScript(Proficient), Java(Proficient),C++(Proficient) </span>
           </li>
           <li className="item">
             <h2>Achievements🏆</h2>
