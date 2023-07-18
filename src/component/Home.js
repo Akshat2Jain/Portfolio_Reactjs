@@ -47,8 +47,8 @@ const Home = () => {
           <li className="item">
             <h2> Front-End 🤌</h2>
             <span>
-              Nextjs,Stripe,ReactJS, AngularJs, HTML, CSS,Ionic, BootStrap,
-              MaterialUI,TailwindCSS, Firebase 8,Chartjs, Strapi
+              Nextjs,Stripe,ReactJS, AngularJs, ExpressJs, NodeJs, MongoDB, HTML, CSS, Ionic, BootStrap,
+              MaterialUI, TailwindCSS, Firebase 8, Chartjs, Strapi
             </span>
           </li>
           <li className="item">
