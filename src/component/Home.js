@@ -34,7 +34,7 @@ const Home = () => {
           <Button
             variant="outlined"
             style={{ color: "yellow" }}
-            href="Resume.pdf"
+            href="Akshat_Jain_Resume.pdf"
             download
           >
             Download Cv
@@ -45,10 +45,10 @@ const Home = () => {
         <h1> Skills</h1>
         <ol className="list">
           <li className="item">
-            <h2> Front-End 🤌</h2>
+            <h2> Tech I Use 🤌</h2>
             <span>
               Nextjs,Stripe,ReactJS, AngularJs, ExpressJs, NodeJs, MongoDB, HTML, CSS, Ionic, BootStrap,
-              MaterialUI, TailwindCSS, Firebase 8, Chartjs, Strapi
+              MaterialUI, TailwindCSS, Firebase 8, Chartjs, Strapi, ExpressJs, JsonWebToken
             </span>
           </li>
           <li className="item">
