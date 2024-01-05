@@ -47,25 +47,26 @@ const Home = () => {
           <li className="item">
             <h2> Tech I Use 🤌</h2>
             <span>
-              Nextjs,Stripe,ReactJS, AngularJs, ExpressJs, NodeJs, MongoDB, HTML, CSS, Ionic, BootStrap,
-              MaterialUI, TailwindCSS, Firebase 8, Chartjs, Strapi, ExpressJs, JsonWebToken
+              ReactJS, ExpressJs, NodeJs, MongoDB, HTML, CSS, Vanilla Javascript, BootStrap,
+              MaterialUI, TailwindCSS, Firebase 8, Chartjs, Strapi, ExpressJs, JsonWebToken, AWS, NextJs, Stripe
             </span>
           </li>
           <li className="item">
             <h2>Languages 🖥</h2>
-            <span>JavaScript(Proficient), Java(Proficient),C++(Proficient) </span>
+            <span>C++(Proficient), JavaScript(Proficient)</span>
           </li>
           <li className="item">
             <h2>Achievements🏆</h2>
-            <span><a href="https://github.com/reactjs/hi.reactjs.org/pull/211">Contributed to the official React Docs</a></span>
+            <span><a href="https://github.com/reactjs/hi.reactjs.org/pull/211">Contributed to the official React Docs</a></span><br></br>
+            <span>Contributed to GSoC Organisations. Merged 10+ PR in Plone Foundation</span>
           </li>
           <li className="item">
             <h2>Extra 😄</h2>
-            <span>Youtuber,Graphic designer,Video Editor,Guitar</span>
+            <span>Youtuber,Video Editor,Guitar</span>
           </li>
         </ol>
       </div>
-    </div>
+    </div >
   );
 };
 
